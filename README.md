@@ -22,5 +22,9 @@ The motivation behind this project was to analyse the 2021 Stack Overflow Develo
 # File descriptions
 The data used for analysis provided by Stack Overflow can be found here:
 [Stack_Overflow_2021_Survey_Schema_and_Results](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2021.zip)
+
 The analysis I completed in Jupyter Notebook can be found here:
+[Jupyter Notebook](https://github.com/cleff1/StackOverflow-2021-survey-Project/blob/main/Blog%20post.ipynb)
+
+
 
