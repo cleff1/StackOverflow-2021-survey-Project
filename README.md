@@ -15,7 +15,7 @@ All of the code was written in Python, using Python version 3. All of the packag
 The motivation behind this project was to analyse the 2021 Stack Overflow Developer survey, to understand these three questions:
 1) What was the average annual compensation for the top 3 most commonly worked with languages?
 
-2) For the top 5 countries with the most respondants, what was the respective average annual compensation?
+2) For the top 5 countries with the most respondents, what was the respective average annual compensation?
 
 3) How does average annual compensation vary across gender?
 
