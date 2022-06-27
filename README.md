@@ -22,11 +22,11 @@ The motivation behind this project was to analyse the 2021 Stack Overflow Develo
 # File descriptions
 The data used for analysis provided by Stack Overflow can be found [here](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2021.zip)
 
-The analysis I completed in Jupyter Notebook can be found here [here](https://github.com/cleff1/StackOverflow-2021-survey-Project/blob/main/Blog%20post.ipynb)
+The analysis I completed in Jupyter Notebook can be found [here](https://github.com/cleff1/StackOverflow-2021-survey-Project/blob/main/Blog%20post.ipynb)
 
 # Results
 
-The results and findings for this project can be found [here] on my Medium blog post. 
+The results and findings for this project can be found [here](https://medium.com/@cerys.leff/money-money-money-4a6a24082be9) on my Medium blog post. 
 
 # Licensing and Acknowledgements
 Credit to Stack Overflow for making this database available to the public. The database is taken directly from Stack Overflow and is available under the Open Database Licnse (ODbL) which can be found [here](http://opendatacommons.org/licenses/odbl/1.0/).
